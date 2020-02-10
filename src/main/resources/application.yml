@@ -1,0 +1,11 @@
+spring:
+ application:    name: facturas
+eureka:
+  client:
+    service-url:  
+     defaultZone: http://server1:8761/eureka 
+
+
+      
+
+      

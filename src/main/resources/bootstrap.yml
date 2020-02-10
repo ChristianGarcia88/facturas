@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: facturas    
+  cloud:
+    config:
+        uri : http://config1:2345
+        
+ 
